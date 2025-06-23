@@ -2,3 +2,4 @@ pandas
 fastapi
 uvicorn[standard]
 reactpy==1.1.0
+PyPDF2
