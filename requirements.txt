@@ -1,7 +1,8 @@
 pandas
-fastapi
-uvicorn[standard]
-reactpy==1.1.0
 PyPDF2
 reportlab
 openpyxl
+fastapi==0.95.2
+uvicorn==0.22.0
+reactpy==1.1.0
+starlette==0.27.0
